@@ -1,0 +1,1 @@
+SELECT * FROM full_ingredients  WHERE rowid = 3
